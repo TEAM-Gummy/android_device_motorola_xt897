@@ -105,4 +105,7 @@
 
     <!-- Enables swipe versus poly-finger touch disambiguation in the KeyboardView -->
     <bool name="config_swipeDisambiguation">true</bool>
+
+    <!-- Attempt to fix kb bl on Photon Q -->
+    <integer name="config_keyboardBrightnessSettingDefault">1</integer>
 </resources>
